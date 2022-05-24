@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning data structures and algorithms at Bloom Institute of Technology <br>
-🔭 I’m interested in web design and front end web development <br>
+🔭 I’m interested in web design and frontend web development <br>
 📫 How to reach me: https://www.linkedin.com/in/caitlin-talbert-22ba69225/ <br> 
 
 <b>My Frontend Skills:</b> <br>
