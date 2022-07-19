@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently in Labs at Bloom Institute of Technology<br>
-🔭 I’m interested in web design and frontend web development <br>
+🔭 I am skilled at full stack web development, but my interests are in web design and frontend web development <br>
 📫 How to reach me: https://www.linkedin.com/in/caitlin-talbert-22ba69225/ <br> 
 
 <b>My Frontend Skills:</b> <br>
