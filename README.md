@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning data structures and algorithms at Bloom Institute of Technology <br>
+🌱 I’m currently in Labs at Bloom Institute of Technology<br>
 🔭 I’m interested in web design and frontend web development <br>
 📫 How to reach me: https://www.linkedin.com/in/caitlin-talbert-22ba69225/ <br> 
 
